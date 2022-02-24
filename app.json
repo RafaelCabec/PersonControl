@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "PersonControl",
+    "slug": "PersonControl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
